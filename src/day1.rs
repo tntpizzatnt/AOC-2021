@@ -1,5 +1,5 @@
 // Completed at 1:49. Comments completed at 2:00
-// TO DO: Use iterators instead of for loops
+// TO DO: Use iterators and closures instead of for loops
 
 use std::str::FromStr;
 
@@ -53,3 +53,13 @@ pub fn solve_part2(input: &Vec<u64>) -> u64 {
 
     increases // return counter
 }
+
+/* Console Output:
+AOC 2021
+Day 1 - Part 1 - for_loop : 1502
+        generator: 41.333µs,
+        runner: 1.333µs
+
+Day 1 - Part 2 - for_loop : 1538
+        generator: 38.125µs,
+        runner: 12.25µs */

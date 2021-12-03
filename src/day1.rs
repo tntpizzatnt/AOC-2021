@@ -1,4 +1,4 @@
-// Completed at 1:49. Comments completed at 2:00
+// Comments completed at 2:00am Dec 1
 // TO DO: Use iterators and closures instead of for loops
 
 use std::str::FromStr;
